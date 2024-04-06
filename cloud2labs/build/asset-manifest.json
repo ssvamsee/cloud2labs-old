@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloud2labs/static/css/main.51080048.css",
+    "main.js": "/cloud2labs/static/js/main.9d170910.js",
+    "static/js/453.c87e6149.chunk.js": "/cloud2labs/static/js/453.c87e6149.chunk.js",
+    "index.html": "/cloud2labs/index.html",
+    "main.51080048.css.map": "/cloud2labs/static/css/main.51080048.css.map",
+    "main.9d170910.js.map": "/cloud2labs/static/js/main.9d170910.js.map",
+    "453.c87e6149.chunk.js.map": "/cloud2labs/static/js/453.c87e6149.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51080048.css",
+    "static/js/main.9d170910.js"
+  ]
+}
